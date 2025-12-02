@@ -76,52 +76,6 @@ Use any of the following User IDs with password: `password123`
 | Student | STU002    | Maria Garcia         |
 | Student | STU003    | John Smith           |
 
-## Deployment on GitHub Pages
-
-1. Create a new GitHub repository
-2. Push all project files to the repository
-3. Go to Settings → Pages
-4. Select "Deploy from a branch" → choose `main` branch
-5. Save and wait for deployment
-6. Access your site at `https://username.github.io/repository-name`
-
-## Grading Scale
-
-| Grade | Percentage | Description     |
-|-------|------------|-----------------|
-| A     | 90-100%    | Excellent       |
-| B     | 80-89%     | Good            |
-| C     | 70-79%     | Average         |
-| D     | 60-69%     | Below Average   |
-| F     | Below 60%  | Fail            |
-
-## Weight Distribution
-
-| Component  | Weight |
-|------------|--------|
-| Quiz       | 20%    |
-| Assignment | 20%    |
-| Midterm    | 25%    |
-| Final Exam | 35%    |
-
-## Code Quality
-
-- **Separation of Concerns**: All CSS in external files, all JS in modular files
-- **No Inline Styles/Scripts**: Clean HTML without inline attributes
-- **Meaningful Names**: Descriptive function and variable names
-- **Comments**: Complex logic is documented
-- **Modular Architecture**: Each JavaScript file handles specific functionality
-
-## Browser Support
-
-- Google Chrome (latest)
-- Mozilla Firefox (latest)
-- Microsoft Edge (latest)
-- Safari (latest)
-
-## License
-
-This project is created for educational purposes as part of SE-1001 Introduction to Software Engineering course.
 
 ---
 
